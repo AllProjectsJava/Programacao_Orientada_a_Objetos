@@ -1,0 +1,2 @@
+Direciona a saida 
+java App > Numeros.txt

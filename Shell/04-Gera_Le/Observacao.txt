@@ -1,0 +1,2 @@
+Concatenar a saída de um programa na entrada de outro
+java Gera | java Le

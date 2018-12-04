@@ -1,0 +1,5 @@
+Direciona a entrada
+java Le < Numeros.txt
+
+Direciona a saida
+java Le < Numeros.txt > Resultado.txt
