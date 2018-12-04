@@ -1,0 +1,6 @@
+30;notebook;2740.0
+10;tablet;3200.0
+20;smartphone;1200.0
+40;pendrive;120.0
+60;roteador wireless;320.0
+50;cabo USB;12.9
