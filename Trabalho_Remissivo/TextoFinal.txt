@@ -1,0 +1,1788 @@
+Palavra mais frequente: perfumes
+
+1 The Project Gutenberg EBook of Perfumes and their Preparation, by 
+2 George William Askinson
+3 
+4 This eBook is for the use of anyone anywhere in the United States and most
+5 other parts of the world at no cost and with almost no restrictions
+6 whatsoever. You may copy it, give it away or re-use it under the terms of
+7 the Project Gutenberg License included with this eBook or online at
+8 www.gutenberg.org. If you are not located in the United States, you'll have
+9 to check the laws of the country where you are located before using this ebook.
+10 
+11 
+12 
+13 Title: Perfumes and their Preparation
+14 
+15 Author: George William Askinson
+16 
+17 Translator: Isidor Furst
+18 
+19 Release Date: October 12, 2017 [EBook #55735]
+20 
+21 Language: English
+22 
+23 Character set encoding: UTF-8
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 PREFACE.
+38 
+39 
+40 The great progress which the art of perfumery has made during recent
+41 times is due to several causes, the chief one of which is fully
+42 realized only by the manufacturer on a large scale, who stands, as
+43 it were, behind the scenes and has access to facts and information
+44 concerning the materials he uses, which are not so easily accessible
+45 to the dilettante in perfumery, or remain altogether unknown to the
+46 latter. This important factor is the advance in our knowledge of the
+47 physical and chemical properties of the several substances used in
+48 perfumery, whereby we can better discriminate between the genuine
+49 and the spurious, the choicest and the inferior, thus insuring, at
+50 the very start, a satisfactory result, instead of being compelled to
+51 resort to wasteful experimentation and empiricism. A better knowledge
+52 has also been gained of the sources of the commercial varieties of
+53 many of the crude products, and a better insight into the conditions
+54 affecting their qualities or properties. A more exhaustive study of
+55 the proximate principles of many of the essential oils has thrown
+56 an entirely new light upon this heretofore obscure class of bodies,
+57 placing into our hands new products of definite chemical composition,
+58 unvarying in physical properties, and many of them valuable additions
+59 to the perfumer’s stock of ingredients. Synthetic chemistry has also
+60 added to the list of materials required by the perfumer, and is surely
+61 going to add many more to it hereafter. Though some of these, like
+62 the new artificial musk, are not yet in a condition to enter into
+63 serious competition with the natural products, yet it is merely a
+64 question of time when the latter need no longer be depended upon. The
+65 increasing demands for the staple articles used by the perfumer have
+66 also caused a large increase in the cultivation of many important
+67 plants in various parts of the world, and have led to the establishment
+68 of new plantations, in some cases to such an extent that the commercial
+69 relations have been entirely revolutionized, new territories producing
+70 larger crops and a finer product than the old home of the plant. The
+71 exploration of hitherto unknown or imperfectly known countries has
+72 also largely added to the perfumer’s art, and is likely to continue to
+73 do this for a long time to come, since it is now well known that vast
+74 districts, more particularly in tropical Africa, are inhabited by a
+75 flora abounding in new odoriferous plants.
+76 
+77 In spite of all this expansion of the perfumer’s stock of trade,
+78 however, which results in the periodical introduction of new compounds,
+79 there is a very large number of popular odorous mixtures which remain
+80 in steady demand, having taken such firm root among civilized nations
+81 that they are not likely to be displaced. It is more particularly with
+82 a view to afford information regarding these latter that a work like
+83 the present is desirable and necessary. A treatise on perfumery is
+84 expected to place into the hands of the purchaser reasonably reliable
+85 processes for preparing the most generally approved simple or compound
+86 perfumes, as well as accurate information concerning the origin and
+87 properties of the various ingredients, together with practical hints
+88 regarding the determination of their genuineness and purity.
+89 
+90 It is a frequent complaint of those who make preparations after
+91 formulas published in works like the present, that they do not
+92 succeed in obtaining fully satisfactory products. Another complaint
+93 of purchasers of such works is this: that they fail to find formulas
+94 yielding preparations identical in every respect with certain
+95 celebrated perfumes which have made the reputation and fortune of
+96 certain firms. Regarding the first complaint, we would say that
+97 the failure lies generally with the complainant himself, through
+98 carelessness in the selection of the materials or disregard of
+99 the given directions. Concerning the second complaint, a moment’s
+100 reflection must convince any one that formulas which are the result
+101 of the study and experimentation of years, and the products of which
+102 are the main stock of trade of certain firms, are carefully guarded,
+103 and not likely to be communicated to others. Moreover, in many cases
+104 even a publication of the component parts would not be of much avail,
+105 for the manufacturer on the large scale has facilities for blending
+106 and seasoning his products which the maker on a small scale does not
+107 possess, and it is this part of the art particularly upon which the
+108 quality of the products depends.
+109 
+110 In preparing the present treatise for the American public many changes
+111 were found necessary in the original text, in order to make the
+112 information given more correct or definite, and so bring the work more
+113 abreast of the present time. In addition to various improvements and
+114 additions made in the working formulas comprising the second portion of
+115 the work, the description of the natural products used as ingredients,
+116 upon the quality and selection of which the success of the perfumer
+117 mostly depends, has been carefully revised, and so far as the objects
+118 of this work required, completed by Dr. Charles Rice, Associate Editor
+119 of _American Druggist_, etc., in consultation with several experts in
+120 the art of perfumery.
+121 
+122 
+123 
+124 CHAPTER I.
+125 
+126 THE HISTORY OF PERFUMERY.
+127 
+128 
+129 The gratification of his senses is peculiar to man, and it is to this
+130 trait that we are indebted for all the arts. The activities which
+131 aimed at the gratification of the eye and ear developed into the
+132 creative arts and music, and in like manner human endeavor directed
+133 toward the stimulation of the sense of smell has in our time assumed
+134 the proportions both of an art and a science; for it was nothing but
+135 the advancement of chemistry that made it possible to fix all the
+136 pleasant odors offered by nature and to create new perfumes by the
+137 artistic combination of these scents. The preparation of perfumes is a
+138 very ancient art that is met with among all peoples possessed of any
+139 degree of civilization. It is particularly the ancient nations of the
+140 Orient which had in truth become masters in the manufacture of numerous
+141 perfumes.
+142 
+143 The first perfume was the fragrant flower; it has continued to be so
+144 to the present day: the sprig of dried lavender flowers which we lay
+145 in the clothes-press was probably used for the same purpose by the
+146 contemporaries of Aristotle. In the Orient, which we may look upon as
+147 the cradle of the art of perfumery, the idea suggested itself early to
+148 substitute for the delicious fragrance of the flowers some substances
+149 of lasting odor; various sweet-scented resins supplied the material
+150 for this purpose. The use of these aromatic resins must have been
+151 very extensive: the ancient Egyptians alone consumed extraordinary
+152 quantities for embalming their dead. How highly the Oriental peoples
+153 in general prized perfumes can be learned from the Bible: the Jews
+154 (like the Catholics to the present day) employed an aromatic gum-resin
+155 (olibanum, frankincense) in their religious ceremonies; in the Song of
+156 Solomon mention is made of Indian perfumes, for instance, cinnamon,
+157 spikenard, myrrh, and aloes.
+158 
+159 Altogether, incense played a prominent part in the religious ceremonies
+160 of the ancient Western Asiatic nations—among many peoples under a
+161 theocratic government it was even believed to be sinful to use incense
+162 for other than religious purposes. The Bible teaches us that Ezekiel
+163 and Isaiah protested against it, and that Moses even prescribed the
+164 preparation of certain kinds of incense for use in the tabernacle.
+165 
+166 Among the most highly civilized people of antiquity, the Greeks, a
+167 large number of fragrant substances, as well as oils perfumed with
+168 them—that is to say, perfumes in the same sense as we still understand
+169 the term—was known; this will be no surprise to those familiar with the
+170 culture of this remarkable people. The odor of violets was the favorite
+171 among the Greeks; besides this they used the scent of the different
+172 mints, thyme, marjoram, and other aromatic plants. This was carried
+173 so far as to become a matter of fashion for the Greek fop to use only
+174 certain odors in the form of ointments for the hair, others for the
+175 neck, etc. In order to prevent this luxury which was carried to such
+176 an excess, Solon even promulgated a law that interdicted the sale of
+177 fragrant oils to Athenian men (the law did not apply to the women).
+178 
+179 The Romans, who were the pupils of the Greeks in all the arts, carried
+180 the luxury with perfumes perhaps even farther. In ancient Rome there
+181 was a very numerous guild of perfumers called _unguentarii_; they
+182 are said to have had a street to themselves in Capua. A Patrician
+183 Roman anointed himself three times daily with precious, sweet-scented
+184 oils which he personally took along into his bath in golden vessels
+185 of exquisite workmanship, so-called nartheciæ. At the funeral of
+186 his wife Poppæa, Nero is said to have used as incense more odorous
+187 substances than could be produced in one year in Arabia, at that time
+188 the only reputed source of perfumes. This luxury went so far that
+189 during the games in the open amphitheatres the whole air was filled
+190 with sweet odors ascending from numerous censers arranged in a circle.
+191 The apartments of well-to-do Romans always contained large and very
+192 valuable urns filled with dried blossoms, to keep the air permanently
+193 perfumed.
+194 
+195 Roman extravagance with perfumes was carried to such an excess that
+196 under the consulate of Licinius Crassus a law was passed which
+197 restricted the use of perfumery, there being good reason to fear that
+198 there would not be enough for the ceremonies in the temples.
+199 
+200 With the migration of the almost savage Huns and Goths, the refinement
+201 of morals ceased, progress in civilization was retarded for centuries,
+202 and at the same time the use of perfumes disappeared entirely in
+203 Europe; but it was otherwise in the Orient. As an instance we may
+204 mention the prophecy of Mohammed, who promised in the Koran to the
+205 faithful in paradise the possession of black-eyed houries whose bodies
+206 were composed of the purest musk.
+207 
+208 The Arabs, the ancient masters of chemistry, were also the first
+209 founders of the art of perfumery. Thus the Arabian physician Avicenna,
+210 in the tenth century, taught the art of preparing fragrant waters from
+211 leaves, and Sultan Saladin, in 1157, on his triumphal entry, had the
+212 walls of the mosque of Omar washed with rose water.
+213 
+214 It was the intercourse with the Orient brought about by the Crusades
+215 that made Europeans again more familiar with the art of perfumery, and
+216 a number of new odors rapidly became known. Italy and France, in those
+217 times the representatives of culture, were the countries in which the
+218 preparation of perfumes was carried on on a large scale. Thus, for
+219 instance, we find the name of a Roman family preserved to the present
+220 day because one of its members had combined a sweet-scented powder,
+221 called Frangipanni after its inventor, which is still in favor, and
+222 because his grandson Mauritius Frangipanni had made the important
+223 discovery that by treating this powder with spirit of wine the fragrant
+224 substance could be obtained in a fluid form.
+225 
+226 The fact has been frequently related and repeated, that Catherine de
+227 Medici, the wife of Henry II., had made use of the fashion of perfuming
+228 the body for the purpose of ridding herself of objectionable persons,
+229 by giving them scented gloves prepared and at the same time poisoned by
+230 a Florentine named René (Renato?). We think this tale to be simply a
+231 hair-raising fable—modern chemistry knows no substance the mere touch
+232 of which could produce the effect of a fatal poison; and it is scarcely
+233 credible that such a material had been known at that time and lost
+234 sight of since.
+235 
+236 In the sixteenth century, especially at the court of Queen Elizabeth,
+237 perfumes were used with great extravagance; in fact, were looked upon
+238 as one of the necessaries of life. This luxury was carried still
+239 farther at the courts of the sumptuous kings of France; Louis XV. went
+240 so far as to demand every day a different odor for his apartments. A
+241 lady’s lover always used the same kind of perfume she did.
+242 
+243 It is well known that among the Oriental nations perfumes are used so
+244 largely that even food is flavored with rose water, musk, etc.; and
+245 Indian and Chinese goods always possess a peculiar aroma which is so
+246 characteristic for certain products that it was considered to be a sign
+247 of genuineness; this was the case, for instance, with the patchouly
+248 odor which always adheres to Indian shawls.
+249 
+250 A shawl-maker of Lyons, who had succeeded in perfectly imitating Indian
+251 shawls with reference to design and colors, spent a fabulous sum to
+252 obtain possession of the plant used by the Indian weavers for perfuming
+253 their wares. Despite the great outlay caused by the search for this
+254 plant, the manufacturer is said to have done a flourishing business
+255 with his “genuine” Indian shawls.
+256 
+257 In more recent times the great extension of trade to the farthest
+258 countries of the globe, and still more the progress of chemistry, have
+259 made us familiar with a number of new perfumes. More than two hundred
+260 different aromatic substances are now known, and still they are far
+261 from being exhausted; every year new odoriferous plants become known,
+262 from which the chemist extracts perfumes. By this means, as well as by
+263 the enormous employment of perfumes in all grades of society, the art
+264 of their preparation has risen to a higher plane; out of empiricism,
+265 which alone prevailed a few decades ago, into the domain of the
+266 chemical sciences.
+267 
+268 Since the appearance of the last edition of this book, the art of
+269 perfumery has made noteworthy progress both with reference to the
+270 knowledge of new aromatic substances and to improvement in the
+271 methods of their preparation; by the introduction of glycerin, solid
+272 and liquid vaselin, and salicylic acid into perfumery, one of its
+273 branches—hygienic cosmetics—has made an important advance.
+274 
+275 At present it is particularly France and England whose perfumery
+276 industry is most extensive and which to some extent rule the markets of
+277 the world; southern France and Algiers especially furnish the best raw
+278 materials, the finest essential oils for the manufacture of perfumes at
+279 the chief centres, Paris and London.
+
+#55735 : [19]
+
+1157 : [211]
+
+12 : [19]
+
+2017 : [19]
+
+abounding : [75]
+
+abreast : [113]
+
+access : [43]
+
+accessible : [44]
+
+accurate : [86]
+
+acid : [272]
+
+activities : [130]
+
+add : [61]
+
+added : [60, 72]
+
+addition : [113]
+
+additions : [58, 114]
+
+adheres : [248]
+
+advance : [46, 273]
+
+advancement : [135]
+
+affecting : [54]
+
+afford : [82]
+
+africa : [74]
+
+ago : [265]
+
+aimed : [131]
+
+air : [189, 192]
+
+algiers : [277]
+
+aloes : [157]
+
+altogether : [45, 159]
+
+american : [110, 119]
+
+amphitheatres : [189]
+
+ancient : [138, 139, 151, 160, 180, 208]
+
+anointed : [183]
+
+antiquity : [166]
+
+apartments : [191, 240]
+
+appearance : [268]
+
+apply : [177]
+
+approved : [85]
+
+arabia : [187]
+
+arabian : [209]
+
+arabs : [208]
+
+aristotle : [146]
+
+aroma : [245]
+
+aromatic : [150, 154, 172, 260, 270]
+
+arranged : [190]
+
+art : [40, 72, 107, 120, 134, 138, 147, 209, 210, 215, 263, 268]
+
+articles : [65]
+
+artificial : [62]
+
+artistic : [137]
+
+arts : [130, 132, 179]
+
+ascending : [190]
+
+asiatic : [160]
+
+askinson : [2, 15]
+
+associate : [118]
+
+assumed : [133]
+
+athenian : [177]
+
+author : [15]
+
+avail : [104]
+
+avicenna : [209]
+
+away : [6]
+
+bath : [184]
+
+believed : [161]
+
+best : [277]
+
+better : [48, 51, 53]
+
+bible : [153, 162]
+
+black-eyed : [205]
+
+blending : [105]
+
+blossoms : [192]
+
+bodies : [56, 205]
+
+body : [228]
+
+book : [268]
+
+branches—hygienic : [273]
+
+bring : [112]
+
+brought : [214]
+
+business : [254]
+
+called : [181, 221]
+
+capua : [182]
+
+carefully : [102, 117]
+
+carelessness : [98]
+
+carried : [172, 175, 179, 195, 218, 238]
+
+case : [247]
+
+cases : [68, 103]
+
+catherine : [226]
+
+catholics : [154]
+
+caused : [66, 253]
+
+causes : [41]
+
+ceased : [201]
+
+celebrated : [95]
+
+censers : [190]
+
+centres : [279]
+
+centuries : [201]
+
+century : [210, 236]
+
+ceremonies : [155, 159, 198]
+
+certain : [94, 96, 102, 164, 174, 246]
+
+changes : [110]
+
+chapter : [124]
+
+character : [23]
+
+characteristic : [246]
+
+charles : [118]
+
+check : [9]
+
+chemical : [47, 57, 266]
+
+chemist : [262]
+
+chemistry : [59, 135, 208, 231, 258]
+
+chief : [41, 279]
+
+chinese : [245]
+
+choicest : [49]
+
+cinnamon : [156]
+
+circle : [190]
+
+civilization : [139, 201]
+
+civilized : [80, 166]
+
+class : [56]
+
+clothes-press : [145]
+
+colors : [251]
+
+combination : [137]
+
+combined : [220]
+
+come : [73]
+
+commercial : [52, 68]
+
+communicated : [103]
+
+compelled : [50]
+
+competition : [63]
+
+complainant : [97]
+
+complaint : [90, 92, 96, 99]
+
+completed : [118]
+
+component : [104]
+
+composed : [206]
+
+composition : [57]
+
+compound : [85]
+
+compounds : [78]
+
+comprising : [114]
+
+concerning : [44, 86, 99]
+
+condition : [62]
+
+conditions : [53]
+
+considered : [246]
+
+consulate : [196]
+
+consultation : [119]
+
+consumed : [151]
+
+contained : [191]
+
+contemporaries : [146]
+
+continue : [72]
+
+continued : [143]
+
+convince : [100]
+
+copy : [6]
+
+correct : [112]
+
+cosmetics—has : [273]
+
+cost : [5]
+
+countries : [71, 217, 258]
+
+country : [9]
+
+court : [236]
+
+courts : [239]
+
+cradle : [147]
+
+crassus : [196]
+
+create : [136]
+
+creative : [132]
+
+credible : [233]
+
+crops : [70]
+
+crude : [53]
+
+crusades : [214]
+
+cultivation : [66]
+
+culture : [170, 217]
+
+daily : [183]
+
+date : [19]
+
+day : [144, 154, 220, 240]
+
+dead : [152]
+
+decades : [265]
+
+definite : [57, 112]
+
+degree : [139]
+
+delicious : [148]
+
+demand : [80, 240]
+
+demands : [65]
+
+depended : [64]
+
+depends : [108, 117]
+
+description : [115]
+
+design : [251]
+
+desirable : [83]
+
+despite : [253]
+
+determination : [88]
+
+developed : [131]
+
+did : [177, 241]
+
+different : [171, 240, 260]
+
+dilettante : [45]
+
+directed : [132]
+
+directions : [99]
+
+disappeared : [202]
+
+discovery : [223]
+
+discriminate : [48]
+
+displaced : [81]
+
+disregard : [98]
+
+districts : [74]
+
+does : [106]
+
+domain : [265]
+
+dr : [118]
+
+dried : [144, 192]
+
+druggist : [119]
+
+ear : [131]
+
+early : [147]
+
+easily : [44]
+
+ebook : [1, 4, 7, 9, 19]
+
+edition : [268]
+
+editor : [118]
+
+effect : [232]
+
+egyptians : [151]
+
+elizabeth : [236]
+
+embalming : [152]
+
+empiricism : [51, 264]
+
+employed : [154]
+
+employment : [263]
+
+encoding : [23]
+
+endeavor : [132]
+
+england : [275]
+
+english : [21]
+
+enormous : [263]
+
+enter : [62]
+
+entirely : [56, 69, 202]
+
+entry : [211]
+
+especially : [236, 277]
+
+essential : [55, 278]
+
+establishment : [67]
+
+europe : [203]
+
+europeans : [215]
+
+excess : [176, 195]
+
+exhausted : [261]
+
+exhaustive : [54]
+
+expansion : [77]
+
+expected : [84]
+
+experimentation : [51, 101]
+
+experts : [119]
+
+exploration : [71]
+
+exquisite : [185]
+
+extension : [257]
+
+extensive : [151, 276]
+
+extent : [68, 276]
+
+extracts : [262]
+
+extraordinary : [151]
+
+extravagance : [195, 237]
+
+eye : [131]
+
+ezekiel : [162]
+
+fable—modern : [231]
+
+fabulous : [251]
+
+facilities : [105]
+
+fact : [226, 237]
+
+factor : [46]
+
+facts : [43]
+
+fail : [93]
+
+failure : [97]
+
+faithful : [205]
+
+familiar : [169, 215, 259]
+
+family : [219]
+
+far : [117, 173, 188, 240, 260]
+
+farther : [180, 239]
+
+farthest : [257]
+
+fashion : [173, 227]
+
+fatal : [232]
+
+favor : [221]
+
+favorite : [170]
+
+fear : [197]
+
+filled : [189, 192]
+
+finer : [70]
+
+finest : [278]
+
+firm : [80]
+
+firms : [96, 102]
+
+fix : [135]
+
+flavored : [244]
+
+flora : [75]
+
+florentine : [230]
+
+flourishing : [254]
+
+flower : [143]
+
+flowers : [144, 148]
+
+fluid : [224]
+
+food : [244]
+
+fop : [173]
+
+form : [174, 224]
+
+formulas : [91, 93, 100, 114]
+
+fortune : [95]
+
+founders : [209]
+
+fragrance : [148]
+
+fragrant : [143, 167, 177, 210, 223]
+
+france : [216, 239, 275, 277]
+
+frangipanni : [221, 222]
+
+frankincense : [155]
+
+frequent : [90]
+
+frequently : [226]
+
+fully : [41, 92]
+
+funeral : [185]
+
+furnish : [277]
+
+furst : [17]
+
+gained : [52]
+
+games : [189]
+
+general : [153]
+
+generally : [85, 97]
+
+genuine : [48, 255]
+
+genuineness : [88, 247]
+
+george : [2, 15]
+
+given : [99, 112]
+
+giving : [229]
+
+globe : [258]
+
+gloves : [229]
+
+glycerin : [271]
+
+going : [61]
+
+golden : [184]
+
+good : [197]
+
+goods : [245]
+
+goths : [200]
+
+government : [161]
+
+grades : [263]
+
+grandson : [222]
+
+gratification : [129, 131]
+
+great : [40, 237, 253, 257]
+
+greek : [173]
+
+greeks : [166, 171, 179]
+
+guarded : [102]
+
+guild : [181]
+
+gum-resin : [154]
+
+gutenberg : [1, 7]
+
+hair : [174]
+
+hair-raising : [231]
+
+hands : [57, 84]
+
+having : [80]
+
+henry : [227]
+
+heretofore : [56]
+
+herself : [228]
+
+higher : [264]
+
+highly : [152, 166]
+
+himself : [97, 183]
+
+hints : [87]
+
+history : [126]
+
+hitherto : [71]
+
+home : [70]
+
+houries : [205]
+
+human : [132]
+
+huns : [200]
+
+idea : [147]
+
+identical : [94]
+
+ii : [227]
+
+imitating : [250]
+
+imperfectly : [71]
+
+important : [46, 66, 222, 273]
+
+improvement : [270]
+
+improvements : [113]
+
+incense : [159, 161, 164, 186]
+
+included : [7]
+
+increase : [66]
+
+increasing : [65]
+
+indebted : [130]
+
+indian : [156, 245, 248, 250, 252, 255]
+
+industry : [276]
+
+inferior : [49]
+
+information : [43, 82, 86, 112]
+
+ingredients : [59, 87, 115]
+
+inhabited : [74]
+
+insight : [53]
+
+instance : [156, 203, 219, 247]
+
+instead : [50]
+
+insuring : [49]
+
+intercourse : [214]
+
+interdicted : [176]
+
+introduction : [78, 271]
+
+inventor : [221]
+
+isaiah : [163]
+
+isidor : [17]
+
+italy : [216]
+
+itself : [147]
+
+jews : [153]
+
+kind : [241]
+
+kinds : [164]
+
+kings : [239]
+
+knowledge : [46, 51, 270]
+
+known : [71, 73, 169, 216, 233, 243, 260, 261]
+
+knows : [231]
+
+koran : [204]
+
+lady’s : [241]
+
+language : [21]
+
+large : [42, 66, 79, 105, 167, 191, 218]
+
+largely : [72, 244]
+
+larger : [70]
+
+lasting : [149]
+
+lavender : [144]
+
+law : [176, 177, 196]
+
+laws : [9]
+
+lay : [144]
+
+learned : [153]
+
+leaves : [211]
+
+led : [67]
+
+license : [7]
+
+licinius : [196]
+
+lies : [97]
+
+life : [238]
+
+light : [56]
+
+like : [61, 82, 91, 132, 154]
+
+likely : [72, 81, 103]
+
+liquid : [272]
+
+list : [60]
+
+located : [8, 9]
+
+london : [279]
+
+long : [73]
+
+longer : [64]
+
+look : [146]
+
+looked : [237]
+
+lost : [233]
+
+louis : [239]
+
+lover : [241]
+
+luxury : [175, 180, 188, 238]
+
+lyons : [250]
+
+main : [102]
+
+make : [90, 111]
+
+maker : [106]
+
+man : [129]
+
+manner : [132]
+
+manufacture : [140, 278]
+
+manufacturer : [42, 105, 254]
+
+marjoram : [172]
+
+markets : [276]
+
+masters : [140, 208]
+
+material : [149, 233]
+
+materials : [44, 60, 98, 278]
+
+matter : [173]
+
+mauritius : [222]
+
+means : [262]
+
+medici : [227]
+
+members : [220]
+
+men : [177]
+
+mention : [156, 204]
+
+mere : [231]
+
+merely : [63]
+
+met : [138]
+
+methods : [271]
+
+migration : [200]
+
+mints : [172]
+
+mixtures : [79]
+
+mohammed : [204]
+
+moment’s : [99]
+
+morals : [201]
+
+moses : [163]
+
+mosque : [212]
+
+music : [132]
+
+musk : [62, 206, 244]
+
+myrrh : [157]
+
+named : [230]
+
+nartheciæ : [185]
+
+nations : [80, 139, 243]
+
+nations—among : [160]
+
+natural : [63, 115]
+
+nature : [136]
+
+necessaries : [238]
+
+necessary : [83, 111]
+
+neck : [175]
+
+need : [64]
+
+nero : [186]
+
+new : [56, 57, 62, 68, 69, 75, 78, 136, 216, 259, 261, 270]
+
+noteworthy : [269]
+
+number : [79, 167, 216, 259]
+
+numerous : [140, 181, 190]
+
+objectionable : [228]
+
+objects : [117]
+
+obscure : [56]
+
+obtain : [252]
+
+obtained : [224]
+
+obtaining : [92]
+
+october : [19]
+
+odor : [149, 170, 240, 248]
+
+odoriferous : [75, 261]
+
+odorous : [79, 186]
+
+odors : [136, 174, 190, 216]
+
+offered : [136]
+
+oils : [55, 167, 177, 184, 278]
+
+ointments : [174]
+
+old : [70]
+
+olibanum : [155]
+
+omar : [212]
+
+online : [7]
+
+open : [189]
+
+order : [111, 175]
+
+orient : [140, 146, 203, 214]
+
+oriental : [152, 243]
+
+origin : [86]
+
+original : [111]
+
+outlay : [253]
+
+paradise : [205]
+
+paris : [279]
+
+particularly : [74, 81, 107, 139, 275]
+
+parts : [5, 67, 104]
+
+passed : [196]
+
+patchouly : [247]
+
+patrician : [182]
+
+peculiar : [129, 245]
+
+people : [166, 170]
+
+peoples : [138, 152, 160]
+
+perfectly : [250]
+
+perfume : [143, 241]
+
+perfumed : [167, 193]
+
+perfumer : [60, 65, 116]
+
+perfumers : [181]
+
+perfumery : [40, 45, 48, 83, 120, 126, 147, 197, 209, 215, 269, 272, 275]
+
+perfumer’s : [59, 72, 77]
+
+perfumes : [1, 13, 86, 95, 136, 137, 141, 153, 156, 168, 180, 188, 195, 202, 218, 237, 243, 259, 262, 263, 278]
+
+perfuming : [227, 252]
+
+periodical : [78]
+
+permanently : [192]
+
+personally : [184]
+
+persons : [228]
+
+physical : [47, 58]
+
+physician : [209]
+
+place : [84]
+
+placing : [57]
+
+plane : [264]
+
+plant : [70, 252, 254]
+
+plantations : [68]
+
+plants : [67, 75, 172, 261]
+
+played : [159]
+
+pleasant : [136]
+
+poison : [232]
+
+poisoned : [229]
+
+poppæa : [186]
+
+popular : [79]
+
+portion : [114]
+
+possess : [107, 245]
+
+possessed : [138]
+
+possession : [205, 252]
+
+possible : [135]
+
+powder : [220, 223]
+
+practical : [87]
+
+precious : [183]
+
+preface : [37]
+
+preparation : [1, 13, 137, 164, 218, 264, 271]
+
+preparations : [90, 94]
+
+prepared : [229]
+
+preparing : [85, 110, 210]
+
+prescribed : [163]
+
+present : [83, 91, 110, 113, 144, 154, 219, 275]
+
+preserved : [219]
+
+prevailed : [265]
+
+prevent : [175]
+
+principles : [55]
+
+prized : [153]
+
+probably : [145]
+
+processes : [85]
+
+produce : [232]
+
+produced : [187]
+
+producing : [69]
+
+product : [70]
+
+products : [53, 57, 63, 92, 101, 106, 108, 115, 246]
+
+progress : [40, 201, 258, 269]
+
+project : [1, 7]
+
+prominent : [159]
+
+promised : [204]
+
+promulgated : [176]
+
+properties : [47, 54, 58, 87]
+
+prophecy : [204]
+
+proportions : [134]
+
+protested : [163]
+
+proximate : [55]
+
+public : [110]
+
+publication : [104]
+
+published : [91]
+
+pupils : [179]
+
+purchaser : [84]
+
+purchasers : [93]
+
+purest : [206]
+
+purity : [88]
+
+purpose : [145, 150, 228]
+
+purposes : [162]
+
+qualities : [54]
+
+quality : [108, 116]
+
+quantities : [152]
+
+queen : [236]
+
+question : [64]
+
+rapidly : [216]
+
+raw : [277]
+
+re-use : [6]
+
+realized : [42]
+
+reason : [197]
+
+reasonably : [84]
+
+recent : [40, 257]
+
+reference : [251, 269]
+
+refinement : [200]
+
+reflection : [100]
+
+regarding : [82, 88, 96]
+
+related : [226]
+
+relations : [69]
+
+release : [19]
+
+reliable : [84]
+
+religious : [155, 159, 162]
+
+remain : [45, 79]
+
+remarkable : [170]
+
+renato : [230]
+
+rené : [230]
+
+repeated : [226]
+
+representatives : [217]
+
+reputation : [95]
+
+reputed : [188]
+
+required : [60, 118]
+
+resins : [149, 150]
+
+resort : [51]
+
+respect : [94]
+
+restricted : [197]
+
+restrictions : [5]
+
+result : [50, 100]
+
+results : [78]
+
+retarded : [201]
+
+revised : [117]
+
+revolutionized : [69]
+
+rice : [118]
+
+ridding : [228]
+
+risen : [264]
+
+roman : [183, 195, 219]
+
+romans : [179, 191]
+
+rome : [180]
+
+root : [80]
+
+rose : [212, 244]
+
+rule : [276]
+
+said : [182, 186, 254]
+
+saladin : [211]
+
+sale : [176]
+
+salicylic : [272]
+
+satisfactory : [50, 92]
+
+savage : [200]
+
+say : [96, 168]
+
+scale : [42, 105, 106, 218]
+
+scarcely : [232]
+
+scenes : [43]
+
+scent : [171]
+
+scented : [229]
+
+scents : [137]
+
+science : [134]
+
+sciences : [266]
+
+search : [253]
+
+seasoning : [106]
+
+second : [99, 114]
+
+selection : [98, 116]
+
+sense : [133, 168]
+
+senses : [129]
+
+set : [23]
+
+shawl-maker : [250]
+
+shawls : [248, 251, 255]
+
+sight : [234]
+
+sign : [246]
+
+simple : [85]
+
+simply : [230]
+
+sinful : [161]
+
+sixteenth : [236]
+
+small : [106]
+
+smell : [133]
+
+so-called : [185]
+
+society : [263]
+
+solid : [271]
+
+solomon : [156]
+
+solon : [176]
+
+song : [155]
+
+source : [188]
+
+sources : [52]
+
+southern : [277]
+
+spent : [251]
+
+spikenard : [157]
+
+spirit : [223]
+
+spite : [77]
+
+sprig : [144]
+
+spurious : [49]
+
+stands : [42]
+
+staple : [65]
+
+start : [50]
+
+states : [4, 8]
+
+steady : [80]
+
+stimulation : [133]
+
+stock : [59, 77, 102]
+
+street : [182]
+
+study : [54, 101]
+
+substance : [224, 231]
+
+substances : [47, 148, 167, 187, 260, 270]
+
+substitute : [148]
+
+succeed : [92]
+
+succeeded : [250]
+
+success : [116]
+
+suggested : [147]
+
+sultan : [211]
+
+sum : [251]
+
+sumptuous : [239]
+
+supplied : [149]
+
+surely : [60]
+
+surprise : [169]
+
+sweet : [190]
+
+sweet-scented : [149, 183, 220]
+
+synthetic : [59]
+
+tabernacle : [164]
+
+taken : [80]
+
+tale : [230]
+
+taught : [210]
+
+teaches : [162]
+
+temples : [198]
+
+tenth : [210]
+
+terms : [6]
+
+term—was : [169]
+
+territories : [69]
+
+text : [111]
+
+them—that : [168]
+
+theocratic : [161]
+
+think : [230]
+
+thrown : [55]
+
+thyme : [172]
+
+time : [64, 73, 113, 133, 187, 202, 229, 233]
+
+times : [41, 183, 217, 257]
+
+title : [13]
+
+took : [184]
+
+touch : [231]
+
+trade : [77, 102, 257]
+
+trait : [130]
+
+translator : [17]
+
+treating : [223]
+
+treatise : [83, 110]
+
+triumphal : [211]
+
+tropical : [74]
+
+truth : [140]
+
+understand : [168]
+
+unguentarii : [181]
+
+united : [4, 8]
+
+unknown : [45, 71]
+
+unvarying : [58]
+
+urns : [192]
+
+use : [4, 150, 161, 164, 173, 197, 202, 227]
+
+used : [47, 65, 115, 145, 171, 186, 237, 241, 243, 252]
+
+uses : [44]
+
+using : [9]
+
+utf-8 : [23]
+
+valuable : [58, 192]
+
+varieties : [52]
+
+various : [67, 87, 113, 149]
+
+vaselin : [272]
+
+vast : [73]
+
+vessels : [184]
+
+view : [82]
+
+violets : [170]
+
+walls : [212]
+
+wares : [253]
+
+washed : [212]
+
+wasteful : [51]
+
+water : [212, 244]
+
+waters : [210]
+
+weavers : [252]
+
+well-to-do : [191]
+
+went : [188, 239]
+
+western : [160]
+
+whatsoever : [6]
+
+wife : [186, 227]
+
+william : [2, 15]
+
+wine : [223]
+
+women : [177]
+
+work : [82, 112, 115, 118]
+
+working : [114]
+
+workmanship : [185]
+
+works : [91, 93]
+
+world : [5, 67, 277]
+
+wwwgutenbergorg : [8]
+
+xv : [239]
+
+year : [187, 261]
+
+years : [101]
+
+yielding : [94]
+
+you'll : [8]
+
